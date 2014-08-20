@@ -4,8 +4,8 @@ congress-forms-test
 
 Way for volunteers to test EFF's congress-forms repo
 
-<a href="javascript:(function(){s=document.createElement('script');s.type='text/javascript';s.src='https://rawgit.com/j-ro/contact-states/gh-pages/bookmarklet.js?v='+parseInt(Math.random()*99999999);document.body.appendChild(s);})();">Copy this to book mark bar</a>
+<a href="javascript:window.ghAuthKey%3D%27YzMzZGRhYjQyMTdiNGE4YWU1Y2IxNDM5ZmRiYWMwZDUxNWYwZDVjYzp4LW9hdXRoLWJhc2lj%27%3B(function()%7Bvar scr%3Ddocument.createElement(%27script%27)%3B scr.src%3D%27https://rawgit.com/j-ro/contact-states/gh-pages/bookmarklet.js?v=1%27%3B document.head.appendChild(scr)%3B%7D)()%3B">Copy this to book mark bar</a>
 
 ```
-javascript:(function(){s=document.createElement('script');s.type='text/javascript';s.src='https://rawgit.com/j-ro/contact-states/gh-pages/bookmarklet.js?v='+parseInt(Math.random()*99999999);document.body.appendChild(s);})();
+javascript:window.ghAuthKey%3D%27YzMzZGRhYjQyMTdiNGE4YWU1Y2IxNDM5ZmRiYWMwZDUxNWYwZDVjYzp4LW9hdXRoLWJhc2lj%27%3B(function()%7Bvar scr%3Ddocument.createElement(%27script%27)%3B scr.src%3D%27https://rawgit.com/j-ro/contact-states/gh-pages/bookmarklet.js?v=1%27%3B document.head.appendChild(scr)%3B%7D)()%3B
 ```
