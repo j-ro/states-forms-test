@@ -72,7 +72,7 @@ require([
 
   // Bring in Example data from YAML file
   $.ajax({
-    url: 'https://raw.github.com/unitedstates/contact-congress/master/support/variables.yaml',
+    url: 'https://raw.githubusercontent.com/j-ro/contact-states/master/support/variables.yaml',
     success: function (exampleYaml) {
       var exampleData = jsyaml.load(exampleYaml);
       var examples = [];
